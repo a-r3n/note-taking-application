@@ -1,12 +1,6 @@
 # note-taking-application
 An application utilising express.js to allow a user to write and save notes
 
-
-
- 
-
-
-
 ## Description
 
 This application allows users to take notes as they're going about their day and save them to read later. 
