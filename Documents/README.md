@@ -1,6 +1,13 @@
 # note-taking-application
 An application utilising express.js to allow a user to write and save notes
 
+https://github.com/a-r3n/note-taking-application 
+
+https://dashboard.heroku.com/apps/ar3n-note-taking-application
+
+https://a-r3n.github.io/note-taking-application/ 
+
+
 
 ## Description
 
